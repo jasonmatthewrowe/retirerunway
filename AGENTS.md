@@ -1,6 +1,6 @@
 # Agent Instructions
 
-This project uses **bd** (beads) for issue tracking. Run `bd prime` for full workflow context.
+This project uses **bd** (beads) for issue tracking. Run `bd dolt pull && bd prime` for full workflow context.
 
 ## Quick Reference
 
@@ -83,5 +83,3 @@ bd close <id>         # Complete work
 - If push fails, resolve and retry until it succeeds
 <!-- END BEADS INTEGRATION -->
 
-## Task Tracking
-Use 'bd' for task tracking. Run 'bd dolt pull && bd prime' at session start.
