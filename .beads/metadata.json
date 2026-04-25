@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "retirerunway",
+  "project_id": "8ffd7476-3495-40fd-baf7-e46bc3f54485"
+}
