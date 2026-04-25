@@ -53,4 +53,4 @@
 # - github.org
 # - github.repo
 
-# sync.remote: "https://jasonmatthewrowe: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@github.com/jasonmatthewrowe/retirerunway.git"
+sync.remote: "https://github.com/jasonmatthewrowe/retirerunway-app.git"
